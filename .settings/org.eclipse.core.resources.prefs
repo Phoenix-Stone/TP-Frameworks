@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java/framework=UTF-8
+encoding//src/main/java/framework/qyweixin/QyWeixinHandler.java=UTF-8
+encoding//src/main/java/framework/qyweixin/mp/aes/PKCS7Encoder.java=UTF-8
+encoding//src/main/java/framework/qyweixin/mp/aes/XMLParse.java=UTF-8
+encoding//src/main/java/framework/qyweixin/util/QyWeixinMsg.java=UTF-8
+encoding//src/main/java/framework/weixin/WeixinHandler.java=UTF-8
+encoding//src/main/java/framework/weixin/util/WeixinMsg.java=UTF-8
+encoding//src/main/java/xyz/welog/tpframeworks/interceptor/ProtalHandlerInterceptor.java=UTF-8
+encoding//src/main/java/xyz/welog/tpframeworks/util/SystemProperties.java=UTF-8
+encoding//src/main/resources/config/jdbc.properties=UTF-8
+encoding//src/main/resources/config/redis.properties=UTF-8
+encoding/<project>=UTF-8
